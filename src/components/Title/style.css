@@ -1,0 +1,12 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    /* text-decoration: underline; */
+    color: white;
+    margin-bottom: 50px;
+    background-color: rgb(18, 15, 58);
+    padding: 30px;
+    border: 3px red solid;
+  }
+  

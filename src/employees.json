@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Sam Orozco",
+      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+      "phone": "270-212-6092",
+      "email": "samorozco@example.com",
+      "dob": "11/08/1968"
+    },
+    {
+      "id": 2,
+      "name": "Payton Adam",
+      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+      "phone": "919-800-0889",
+      "email": "paytonadam@example.com",
+      "dob": "11/02/1972"
+    },
+    {
+      "id": 3,
+      "name": "Amiyah Ingram",
+      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "phone": "402-648-6754",
+      "email": "amiyahingram@example.com",
+      "dob": "07/30/1980"
+    },
+    {
+      "id": 4,
+      "name": "Rory Jimenez",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "phone": "614-493-0362",
+      "email": "roryjimenez@example.com",
+      "dob": "01/16/1983"
+    },
+    {
+      "id": 5,
+      "name": "Taliyah McCoy",
+      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "phone": "831-623-4696",
+      "email": "taliyahmccoy@example.com",
+      "dob": "08/07/1984"
+    },
+    {
+      "id": 6,
+      "name": "Leonie Burnett",
+      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "phone": "610-603-1846",
+      "email": "leonieburnett@example.com",
+      "dob": "02/16/1985"
+    },
+    {
+      "id": 7,
+      "name": "Walter Luna",
+      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+      "phone": "262-675-7655",
+      "email": "walterluna@example.com",
+      "dob": "04/05/1988"
+    },
+    {
+      "id": 8,
+      "name": "Sammy Cameron",
+      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+      "phone": "213-398-7593",
+      "email": "sammycameron@example.com",
+      "dob": "05/06/1988"
+    },
+    {
+      "id": 9,
+      "name": "Monty Wills",
+      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+      "phone": "907-670-6966",
+      "email": "montywills@example.com",
+      "dob": "06/16/1989"
+    },
+    {
+      "id": 10,
+      "name": "Mischa Baxter",
+      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
+      "phone": "407-567-8465",
+      "email": "mischabaxter@example.com",
+      "dob": "02/22/1995"
+    },
+    {
+      "id": 11,
+      "name": "Kenzie Crowther",
+      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+      "phone": "787-743-2193",
+      "email": "kenziecrowther@example.com",
+      "dob": "12/12/1996"
+    },
+    {
+      "id": 12,
+      "name": "Joy Ramos",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+      "phone": "901-320-5559",
+      "email": "joyramos@example.com",
+      "dob": "11/21/1997"
+    }
+]
+  
