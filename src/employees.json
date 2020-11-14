@@ -4,7 +4,7 @@
       "name": "Michael Scott",
       "image": "https://pbs.twimg.com/profile_images/1258083294870036481/T-f9OgNq_400x400.jpg",
       "phone": "270-212-6092",
-      "email": "samorozco@example.com",
+      "email": "michaelscott@example.com",
       "dob": "11/08/1968"
     },
     {
@@ -12,7 +12,7 @@
       "name": "Dwight Schrute",
       "image": "https://www.myany.city/sites/default/files/styles/scaled_cropped_medium__260x260/public/field/image/node-related-images/sample-dwight-k-schrute.jpg?itok=8TfRscbA",
       "phone": "919-800-0889",
-      "email": "paytonadam@example.com",
+      "email": "dwightschrute@example.com",
       "dob": "11/02/1972"
     },
     {
@@ -20,7 +20,7 @@
       "name": "Pam Beesly",
       "image": "https://64.media.tumblr.com/82867f10254ee7e5bf66d0e9d80bb8ce/d67519a6490e3a9b-98/s400x600/a745dc9ccac5381ce88367e5af10f0595604ab57.png",
       "phone": "402-648-6754",
-      "email": "amiyahingram@example.com",
+      "email": "pambeesly@example.com",
       "dob": "07/30/1980"
     },
     {
@@ -28,7 +28,7 @@
       "name": "Jim Halpert",
       "image": "https://pbs.twimg.com/profile_images/1005543656105930753/GpsnRK6N_400x400.jpg",
       "phone": "614-493-0362",
-      "email": "roryjimenez@example.com",
+      "email": "jimhalpert@example.com",
       "dob": "01/16/1983"
     },
     {
@@ -36,7 +36,7 @@
       "name": "Andy Bernard",
       "image": "https://alivitali.files.wordpress.com/2013/05/mr-andrew-bernard.jpg",
       "phone": "831-623-4696",
-      "email": "taliyahmccoy@example.com",
+      "email": "andybernard@example.com",
       "dob": "08/07/1984"
     },
     {
@@ -44,7 +44,7 @@
       "name": "Angela Martin",
       "image": "https://openpsychometrics.org/tests/characters/test-resources/pics/TO/11.jpg",
       "phone": "610-603-1846",
-      "email": "leonieburnett@example.com",
+      "email": "angelamartin@example.com",
       "dob": "02/16/1985"
     },
     {
@@ -52,7 +52,7 @@
       "name": "Oscar Martinez",
       "image": "https://i.pinimg.com/originals/f5/6c/8a/f56c8aaa5444c12e1da43a3327c16014.jpg",
       "phone": "262-675-7655",
-      "email": "walterluna@example.com",
+      "email": "oscarmartinez@example.com",
       "dob": "04/05/1988"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Phyllis Vance",
       "image": "https://img.nbc.com/sites/nbcunbc/files/images/2013/11/12/phyllis-500x500.jpg",
       "phone": "213-398-7593",
-      "email": "sammycameron@example.com",
+      "email": "phyllisvance@example.com",
       "dob": "05/06/1988"
     },
     {
@@ -68,7 +68,7 @@
       "name": "Kelly Kapoor",
       "image": "https://media1.popsugar-assets.com/files/thumbor/5S77nkNGwyPS41wXQ8kQXVCVVP4/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/01/23/923/n/44344577/115938a45c48d82048e063.37759977_/i/Mindy-Kaling-Quotes-About-Office-Kelly-Kapoor.jpg",
       "phone": "907-670-6966",
-      "email": "montywills@example.com",
+      "email": "kellykapoor@example.com",
       "dob": "06/16/1989"
     },
     {
@@ -76,7 +76,7 @@
       "name": "Kevin Malone",
       "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-the-office-brian-baumgartner.jpg",
       "phone": "407-567-8465",
-      "email": "mischabaxter@example.com",
+      "email": "kevinmalone@example.com",
       "dob": "02/22/1995"
     },
     {
@@ -84,7 +84,7 @@
       "name": "Stanley Hudson",
       "image": "https://pbs.twimg.com/profile_images/595472431260639232/ViFkqjuR_400x400.jpg",
       "phone": "787-743-2193",
-      "email": "kenziecrowther@example.com",
+      "email": "stanleyhudson@example.com",
       "dob": "12/12/1996"
     },
     {
@@ -92,7 +92,7 @@
       "name": "Erin Hannon",
       "image": "https://pbs.twimg.com/profile_images/597626480768774144/igHTscVI.jpg",
       "phone": "901-320-5559",
-      "email": "joyramos@example.com",
+      "email": "erinhannon@example.com",
       "dob": "11/21/1997"
     }
 ]
