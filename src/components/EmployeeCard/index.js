@@ -36,12 +36,13 @@ function FriendCard(props) {
                               <img alt={props.name} src={props.image}/>
                           </div>
                           <div className="card-body">
-                              <h4 className="card-title">Card title</h4>
-                              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <h4 className="card-title">{props.name}</h4>
+                              <p className="card-text">ID: {props.id}</p>
+                              <p className="card-text">Phone: {props.phone}</p>
+                              <p className="card-text">Email: {props.email}</p>
+                              <p className="card-text">DOB: {props.dob}</p>
+
                           </div>
-                      </div>
-                      <div className="card-footer">
-                          <small className="text-muted">Last updated 3 mins ago</small>
                       </div>
                   </div>
               </div>
