@@ -4,6 +4,7 @@ import Wrapper from './components/Wrapper';
 import Title from './components/Title';
 import employees from './employees.json';
 import SortButtons from './components/SortButtons';
+import FilterButtons from './components/FilterButtons';
 
 let testSort = employees
 
@@ -44,6 +45,30 @@ class App extends React.Component {
       employees: newArray
     });
   }
+
+  filterManagers = event => {
+    event.preventDefault();
+    console.log("managers");
+
+    let newArray = testSort.filter(item => item.title == "Manager");
+    this.setState({employees: newArray})
+  }
+
+  filterSales = event => {
+    event.preventDefault();
+    console.log("sales");
+
+    let newArray = testSort.filter(item => item.title == "Salesperson");
+    this.setState({employees: newArray})
+  }
+
+  filterAccountants = event => {
+    event.preventDefault();
+    console.log("accountants");
+
+    let newArray = testSort.filter(item => item.title == "Accountant");
+    this.setState({employees: newArray})
+  }
   
 
   render() {
@@ -55,6 +80,11 @@ class App extends React.Component {
           sortName={this.sortName}
           sortDob={this.sortDob}
         />
+        <FilterButtons
+          filterManagers={this.filterManagers}
+          filterSales={this.filterSales}
+          filterAccountants={this.filterAccountants}
+        />
         {this.state.employees.map(item => {
           return (
             <EmployeeCard
@@ -65,7 +95,7 @@ class App extends React.Component {
               phone={item.phone}
               email={item.email}
               dob={item.dob}
-              sortID={this.sortID}
+              title={item.title}
             />
           )
         })}

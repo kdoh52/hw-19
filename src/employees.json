@@ -2,98 +2,110 @@
     {
       "id": 1,
       "name": "Michael Scott",
+      "title": "Manager",
       "image": "https://pbs.twimg.com/profile_images/1258083294870036481/T-f9OgNq_400x400.jpg",
       "phone": "270-212-6092",
       "email": "michaelscott@example.com",
-      "dob": "11/08/1968"
+      "dob": "03/15/1964"
     },
     {
       "id": 2,
       "name": "Dwight Schrute",
+      "title": "Manager",
       "image": "https://www.myany.city/sites/default/files/styles/scaled_cropped_medium__260x260/public/field/image/node-related-images/sample-dwight-k-schrute.jpg?itok=8TfRscbA",
       "phone": "919-800-0889",
       "email": "dwightschrute@example.com",
-      "dob": "11/02/1972"
+      "dob": "01/20/1970"
     },
     {
       "id": 3,
       "name": "Pam Beesly",
+      "title": "Salesperson",
       "image": "https://64.media.tumblr.com/82867f10254ee7e5bf66d0e9d80bb8ce/d67519a6490e3a9b-98/s400x600/a745dc9ccac5381ce88367e5af10f0595604ab57.png",
       "phone": "402-648-6754",
       "email": "pambeesly@example.com",
-      "dob": "07/30/1980"
+      "dob": "03/25/1979"
     },
     {
       "id": 4,
       "name": "Jim Halpert",
+      "title": "Salesperson",
       "image": "https://pbs.twimg.com/profile_images/1005543656105930753/GpsnRK6N_400x400.jpg",
       "phone": "614-493-0362",
       "email": "jimhalpert@example.com",
-      "dob": "01/16/1983"
+      "dob": "10/01/1978"
     },
     {
       "id": 5,
       "name": "Andy Bernard",
+      "title": "Manager",
       "image": "https://alivitali.files.wordpress.com/2013/05/mr-andrew-bernard.jpg",
       "phone": "831-623-4696",
       "email": "andybernard@example.com",
-      "dob": "08/07/1984"
+      "dob": "01/24/1973"
     },
     {
       "id": 6,
       "name": "Angela Martin",
+      "title": "Accountant",
       "image": "https://openpsychometrics.org/tests/characters/test-resources/pics/TO/11.jpg",
       "phone": "610-603-1846",
       "email": "angelamartin@example.com",
-      "dob": "02/16/1985"
+      "dob": "06/25/1971"
     },
     {
       "id": 7,
       "name": "Oscar Martinez",
+      "title": "Accountant",
       "image": "https://i.pinimg.com/originals/f5/6c/8a/f56c8aaa5444c12e1da43a3327c16014.jpg",
       "phone": "262-675-7655",
       "email": "oscarmartinez@example.com",
-      "dob": "04/05/1988"
+      "dob": "11/18/1958"
     },
     {
       "id": 8,
       "name": "Phyllis Vance",
+      "title": "Sales Rep",
       "image": "https://img.nbc.com/sites/nbcunbc/files/images/2013/11/12/phyllis-500x500.jpg",
       "phone": "213-398-7593",
       "email": "phyllisvance@example.com",
-      "dob": "05/06/1988"
+      "dob": "07/10/1951"
     },
     {
       "id": 9,
       "name": "Kelly Kapoor",
+      "title": "Customer Relations",
       "image": "https://media1.popsugar-assets.com/files/thumbor/5S77nkNGwyPS41wXQ8kQXVCVVP4/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/01/23/923/n/44344577/115938a45c48d82048e063.37759977_/i/Mindy-Kaling-Quotes-About-Office-Kelly-Kapoor.jpg",
       "phone": "907-670-6966",
       "email": "kellykapoor@example.com",
-      "dob": "06/16/1989"
+      "dob": "02/05/1980"
     },
     {
       "id": 10,
       "name": "Kevin Malone",
+      "title": "Accountant",
       "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-the-office-brian-baumgartner.jpg",
       "phone": "407-567-8465",
       "email": "kevinmalone@example.com",
-      "dob": "02/22/1995"
+      "dob": "06/01/1968"
     },
     {
       "id": 11,
       "name": "Stanley Hudson",
+      "title": "Salesperson",
       "image": "https://pbs.twimg.com/profile_images/595472431260639232/ViFkqjuR_400x400.jpg",
       "phone": "787-743-2193",
       "email": "stanleyhudson@example.com",
-      "dob": "12/12/1996"
+      "dob": "02/19/1958"
     },
     {
       "id": 12,
       "name": "Erin Hannon",
+      "title": "Receptionist",
       "image": "https://pbs.twimg.com/profile_images/597626480768774144/igHTscVI.jpg",
       "phone": "901-320-5559",
       "email": "erinhannon@example.com",
-      "dob": "11/21/1997"
+      "dob": "05/01/1986"
     }
 ]
   
